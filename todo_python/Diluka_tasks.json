@@ -1,0 +1,9 @@
+[
+  {
+    "name": "make todo app",
+    "priority": "Low",
+    "due_date": "2025-12-31",
+    "category": "Work",
+    "status": "Pending"
+  }
+]
